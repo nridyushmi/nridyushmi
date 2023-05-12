@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nridyushmi&label=Profile%20views&color=0e75b6&style=flat" alt="nridyushmi" /> </p>
 
-- 🔭 I’m currently working on **Test Automation using Selenium Python**
+- 🔭 I’m currently working on **Test Automation using Selenium Python and Playwright**
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Flutter and Angular 15**
 
 - 📫 How to reach me **nuridayu.suhaimi14@gmail.com**
 
